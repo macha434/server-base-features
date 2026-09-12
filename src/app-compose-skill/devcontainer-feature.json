@@ -1,0 +1,8 @@
+{
+  "id": "app-compose-skill",
+  "version": "1.0.0",
+  "name": "server_base app-compose skill",
+  "description": "Installs a user-level Claude Code skill that teaches the server_base docker-compose labels convention (site.port / site.subdomain), so app repos need zero server_base-specific configuration.",
+  "documentationURL": "https://github.com/macha434/server-base-features/tree/main/src/app-compose-skill",
+  "options": {}
+}
